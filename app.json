@@ -28,6 +28,7 @@
       "eas": {
         "projectId": "ec9b9a3e-2426-4797-a94c-f6156e0dd9b4"
       }
-    }
+    },
+    "scheme": "LockUpWithGoogleAuth"
   }
 }
